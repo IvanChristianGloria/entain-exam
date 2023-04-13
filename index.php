@@ -32,7 +32,7 @@
                     8/1
                 </div>
                 <div class="text-small">
-                    £/€ 5 Bet Only | PLUS £/€5 Free Bet should your bet lose
+                    £/€ 5 Bet Only <div>|</div><br/> PLUS £/€5 Free Bet should your bet lose
                 </div>
                 <input type="text" placeholder="Email" class="email">
                 <div class="email-validate"></div>
@@ -129,7 +129,7 @@
                     <div class="arrow">▼</div>
                     <u>About Coral Sports Betting</u>
                 </div>
-                |
+                <div class="divider">|</div>
                 <div class="modal-open"><u>Terms & Conditions</u></div>
             </div>
             <div class="about-full">
